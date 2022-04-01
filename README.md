@@ -39,3 +39,7 @@ def forward(self, input_ids, attention_mask, token_type_ids):
 
 - [CoSENT 实现](https://github.com/shawroad/CoSENT_Pytorch)
 - [SimCSE 实现](https://github.com/zhengyanzhao1997/NLP-model/tree/main/model/model/Torch_model/SimCSE-Chinese)
+
+# 致谢
+
+本仓库中的工作得到西安电子科技大学高性能计算校级公共平台的支持. Supported by High-performance Computing Platform of XiDian University.
